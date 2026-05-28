@@ -1,0 +1,6 @@
+MODEL COMPARISON
+
+MODEL                ACCURACY     RECALL  ROC-AUC 
+Logistic Regression  	0.88	   0.92	    0.93
+Random Forest	        0.88	   0.92	    0.95
+XGBoost	                0.89	   0.91	    0.94
