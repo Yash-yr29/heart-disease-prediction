@@ -77,11 +77,14 @@ XGBoost	                0.89	   0.91	    0.94
 
 
 
-9. FUTURE SCOPE 
+10. FUTURE SCOPE 
  -Perform advanced feature engineering
  -Train the model on larger healthcare datasets
  -Add deep learning models for comparison
  -Integrate the model with cloud deployment services
+
+11. URL :
+    heart-disease-prediction-yr.streamlit.app
 
 
 
