@@ -62,28 +62,22 @@ Project_Type : This is a classical basic ML project - using a Classification mod
 After comparing Logistic Regression, Random Forest, and XGBoost using Accuracy, Recall, and ROC-AUC metrics, 
 Random Forest was selected as the final model due to its strong recall score and best ROC-AUC performance. 
 
+8.MODEL COMPARISON
 
-8. IMAGES
-    -Confusion Matrix =  ![Confusion Matrix](Image/Random Forest_confusion_matrix.png)
-    -ROC Curve =    ![ROC Curve](Image/Random Forest_roc_curve.png)
-
-
-9.MODEL COMPARISON
-
-Model                 Accuracy    Recall    ROC-AUC 
+Model                 [Accuracy    [Recall    [ROC-AUC 
 Logistic Regression  	0.88	   0.92	    0.93
 Random Forest	        0.88	   0.92	    0.95
-XGBoost	                0.89	   0.91	    0.94
+XGBoost	                0.89]	   0.91]	    0.94]
 
 
 
-10. FUTURE SCOPE 
+9. FUTURE SCOPE 
  -Perform advanced feature engineering
  -Train the model on larger healthcare datasets
  -Add deep learning models for comparison
  -Integrate the model with cloud deployment services
 
-11. URL :
+10. URL :
     heart-disease-prediction-yr.streamlit.app
 
 
