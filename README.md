@@ -64,10 +64,10 @@ Random Forest was selected as the final model due to its strong recall score and
 
 8.MODEL COMPARISON
 
-Model                 [Accuracy    [Recall    [ROC-AUC 
+Model                 Accuracy    Recall    ROC-AUC 
 Logistic Regression  	0.88	   0.92	    0.93
 Random Forest	        0.88	   0.92	    0.95
-XGBoost	                0.89]	   0.91]	    0.94]
+XGBoost	                0.89	   0.91	    0.94
 
 
 
